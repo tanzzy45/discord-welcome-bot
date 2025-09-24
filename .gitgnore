@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Secrets
+.env
+
+# Bot data files
+user_data.json
+seen_users.db
+
+# IDE files (optional)
+.vscode/
+.idea/
